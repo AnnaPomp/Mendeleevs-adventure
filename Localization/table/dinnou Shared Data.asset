@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: dinnou Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: dinnou
+  m_TableCollectionNameGuidString: cb9fb9d59c1b7bd488963270b4adac57
+  m_Entries:
+  - m_Id: 11845009408
+    m_Key: idkman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 587123163136
+    m_Key: 'tutorial
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 923657338880
+    m_Key: creeaza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10631311032320
+    m_Key: am_deja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11891804241920
+    m_Key: login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12766647975936
+    m_Key: signin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67250803736576
+    m_Key: starttext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421411516874752
+    m_Key: alcani1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421797136990208
+    m_Key: alcani2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422255645720576
+    m_Key: alcani3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422261530329088
+    m_Key: alcani4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423329987330048
+    m_Key: alcani5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423336635301888
+    m_Key: alcani6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423384458756096
+    m_Key: alcani7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425596840869888
+    m_Key: 'alcadiene1 '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425599449726976
+    m_Key: alcadiene2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425601597210624
+    m_Key: alcadiene3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425602138275840
+    m_Key: alcadiene4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425603069411328
+    m_Key: alcadiene5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428575954337792
+    m_Key: alcadiene6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428578135375872
+    m_Key: alcadiene7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430091054383104
+    m_Key: alchine1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430092648218624
+    m_Key: alchine2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430093285752832
+    m_Key: alchine3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430093860372480
+    m_Key: alchine4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430094527266816
+    m_Key: alchine5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430095915581440
+    m_Key: alchine6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430095940747264
+    m_Key: alchine7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682599194591232
+    m_Key: elev
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1224250749124608
+    m_Key: manual
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1055033705383591961
+  references:
+    version: 2
+    RefIds:
+    - rid: 1055033705383591961
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716806674254

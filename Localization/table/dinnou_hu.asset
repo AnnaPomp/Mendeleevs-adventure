@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: dinnou_hu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: cb9fb9d59c1b7bd488963270b4adac57, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1055033731617390603
+  m_TableData:
+  - m_Id: 11845009408
+    m_Localized: "\rJ\xE1t\xE9k kezd\xE9se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 587123163136
+    m_Localized: "\rEgyetemi tan\xE1r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 923657338880
+    m_Localized: "\rTeremt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10631311032320
+    m_Localized: "M\xE1r van egy fi\xF3kom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11891804241920
+    m_Localized: "\rBel\xE9p\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12766647975936
+    m_Localized: "\rBejelentkez\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67250803736576
+    m_Localized: "\rMengyelejev kalandja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421411516874752
+    m_Localized: "\xC9hes lesz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421797136990208
+    m_Localized: "\rAz alk\xE1nok tel\xEDtett aciklikus sz\xE9nhidrog\xE9nek, amelyek
+      a molekul\xE1ban csak egyszeres \u03C3 (szigma) k\xF6t\xE9seket tartalmaznak,
+      amelyek sz\xE9n-sz\xE9n \xE9s sz\xE9n-hidrog\xE9n k\xF6z\xF6tt j\xF6nnek l\xE9tre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 422255645720576
+    m_Localized: "\xC1ltal\xE1nos k\xE9plet: C<sub>n</sub>H<sub>2n+2</sub> , ahol
+      n a \u0421 atomok \xE9s molekul\xE1k sz\xE1ma.\r\nEgyen\xE9rt\xE9k\u0171 tel\xEDtetlens\xE9g
+      NE =0."
+    m_Metadata:
+      m_Items:
+      - rid: 1055033731617390603
+  - m_Id: 422261530329088
+    m_Localized: "Az alk\xE1nok homol\xF3g sorozat\xE1ban az els\u0151 4 kifejez\xE9s
+      saj\xE1tos, \xE1ltal\xE1nos nevekkel rendelkezik, amelyekben az \"-an\" v\xE9gz\u0151d\xE9s
+      (ut\xF3tag) szerepel. Az els\u0151 kifejez\xE9s a met\xE1n, ezt k\xF6veti az
+      et\xE1n, prop\xE1n, but\xE1n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423329987330048
+    m_Localized: "Az alk\xE1nok homol\xF3g sorozat\xE1ban az \xF6t\xF6dik kifejez\xE9s
+      az els\u0151, amelynek neve a molekul\xE1ban l\xE9v\u0151 sz\xE9natomok sz\xE1m\xE1t
+      jelz\u0151 g\xF6r\xF6g sz\xF3hoz az \"-an\" ut\xF3tag hozz\xE1ad\xE1s\xE1val
+      \xE1ll. P\xE9ld\xE1ul: pent\xE1n, hex\xE1n, hept\xE1n stb."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423384458756096
+    m_Localized: "Azokat az izomer anyagokat, amelyek csak a sz\xE9natomok egyenes
+      vagy el\xE1gaz\xF3 l\xE1nc\xFA elrendez\xE9s\xE9ben k\xFCl\xF6nb\xF6znek egym\xE1st\xF3l,
+      l\xE1ncizomereknek nevezz\xFCk. P\xE9ld\xE1ul az n-but\xE1n \xE9s az izobut\xE1n
+      l\xE1ncizomerek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423336635301888
+    m_Localized: "Az azonos molekulak\xE9plet\u0171, de szerkezet\xFCkben \xE9s implicit
+      tulajdons\xE1gaikban elt\xE9r\u0151 anyagokat izomereknek nevezz\xFCk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425596840869888
+    m_Localized: "\ralkadi\xE9n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425599449726976
+    m_Localized: "Az alkadi\xE9nek tel\xEDtetlen aciklusos sz\xE9nhidrog\xE9nek,
+      amelyek k\xE9t kovalens kett\u0151s k\xF6t\xE9st tartalmaznak a molekula sz\xE9natomjai
+      k\xF6z\xF6tt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425601597210624
+    m_Localized: "\xC1ltal\xE1nos k\xE9plet: C<sub>n</sub>H<sub>2n-2</sub> (azonos
+      az alkinok\xE9val)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425602138275840
+    m_Localized: "Az azonos sz\xE9natomsz\xE1m\xFA alkinek \xE9s alkadi\xE9nek azonos
+      molekulak\xE9pletek, de az atomok elt\xE9r\u0151en k\xF6t\u0151dnek \xE9s k\xFCl\xF6nb\xF6z\u0151
+      anyagoszt\xE1lyokba tartoznak, funkcion\xE1lis izomerek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425603069411328
+    m_Localized: "Az alkadi\xE9nek izom\xE9ri\xE1t mutatnak:\r\nfunkci\xF3j\xE1nak\r\n\u2022
+      l\xE1nc;\r\n\u2022 poz\xEDci\xF3;\r\n\u2022geometriai."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428575954337792
+    m_Localized: "Az alkadi\xE9nek homol\xF3g sorozata n = 3-t\xF3l kezd\u0151dik,
+      \xE9s eg\xE9sz sz\xE1mokat \xE9s egym\xE1st k\xF6vet\u0151 \xE9rt\xE9keket
+      vesz fel az alkadi\xE9nek \xE1ltal\xE1nos k\xE9plet\xE9ben: C<sub>n</sub>H<sub>2n-2</sub>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 428578135375872
+    m_Localized: "Az alkadi\xE9nek elnevez\xE9se a megfelel\u0151 alk\xE1n nev\xE9nek
+      utols\xF3 \"-n\" bet\u0171j\xE9nek a \"-di\xE9n\" ut\xF3taggal val\xF3 helyettes\xEDt\xE9s\xE9vel
+      t\xF6rt\xE9nik.\r\nA butadi\xE9nt\u0151l kezdve, amely az alkadi\xE9nek homol\xF3g
+      sorozat\xE1nak m\xE1sodik tagja, nev\xFCkben a kett\u0151s k\xF6t\xE9sek helyzete
+      is arab sz\xE1mokkal szerepel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430091054383104
+    m_Localized: Alkin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430092648218624
+    m_Localized: "Az alkinek tel\xEDtetlen aciklusos sz\xE9nhidrog\xE9nek, amelyek
+      molekul\xE1iban h\xE1rmas k\xF6t\xE9st tartalmaznak 2 sz\xE9natom k\xF6z\xF6tt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430093285752832
+    m_Localized: "\xC1ltal\xE1nos k\xE9plet: C<sub>n</sub>H<sub>2n-2</sub>, ahol
+      n a C atomok sz\xE1ma a molekul\xE1ban \xE9s n \u2265 2, felvehet eg\xE9sz
+      \xE9s egym\xE1st k\xF6vet\u0151 \xE9rt\xE9keket, \xEDgy megkapja a homol\xF3got
+      alkinok sorozata."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430093860372480
+    m_Localized: "Az alkinek elnevez\xE9se \xFAgy t\xF6rt\xE9nik, hogy az alk\xE1n
+      nev\xE9ben az \u201E-an\u201D ut\xF3tagot \u201E-ine\u201D ut\xF3tagra cser\xE9lj\xFCk.\r\nA
+      h\xE1romn\xE1l t\xF6bb sz\xE9natomot tartalmaz\xF3 alkinek eset\xE9ben a h\xE1rmas
+      k\xF6t\xE9s helyzet\xE9t az a sz\xE9natom jelzi, amelynek a legalacsonyabb
+      sz\xE1ma a f\u0151l\xE1nc sz\xE1moz\xE1s\xE1ban az adott k\xF6t\xE9sre vonatkoz\xF3an."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430094527266816
+    m_Localized: "Az alkinokban a k\xF6vetkez\u0151 izomerek fordulnak el\u0151:\r\n-
+      funkci\xF3ja;\r\n- l\xE1nc;\r\n- poz\xEDci\xF3ja;\r\nFunkcion\xE1lis izom\xE9ria
+      az alkinokban\r\nAz azonos molekulak\xE9plet\u0171 alkinek, alkadinek \xE9s
+      cikloalk\xE9nek funkcion\xE1lis izomerek.\r\nL\xE1ncizomerek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430095915581440
+    m_Localized: "A molekul\xE1ban legal\xE1bb 5 sz\xE9natomot tartalmaz\xF3 alkinek
+      szint\xE9n l\xE1ncizom\xE9ri\xE1t mutatnak.\r\nA l\xE1ncizomerek egyenes \xE9s
+      el\xE1gaz\xF3 l\xE1nc\xFAak.\r\nP\xE9ld\xE1ul az 1-pentinnek k\xE9t l\xE1ncizomerje
+      van:\r\n1-pentin (line\xE1ris l\xE1nc) \xE9s\r\n3-metil-1-butin (el\xE1gaz\xF3
+      l\xE1nc)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430095940747264
+    m_Localized: "A molekul\xE1ban legal\xE1bb 4 sz\xE9natomot tartalmaz\xF3 alkinek
+      helyzeti izom\xE9ri\xE1t mutatnak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682599194591232
+    m_Localized: "Di\xE1k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1224250749124608
+    m_Localized: "\rK\xE9mia tank\xF6nyv"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1055033731617390603
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0080c40d0a800100
